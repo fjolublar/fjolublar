@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fjolublar (Indrit)
+- 👋 Hi, I’m Indrit
 - 👀 I’m interested in Python, Computer Vision, IOT etc.
 
 <!---
