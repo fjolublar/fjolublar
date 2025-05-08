@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Indrit
-- 👀 I’m interested in Python, Computer Vision, IOT etc.
+- 👋 Hi there, I’m Indrit
+- 👀 My current interests are in Python, Cloud, Computer Vision, IOT etc.
 
 <!---
 fjolublar/fjolublar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
